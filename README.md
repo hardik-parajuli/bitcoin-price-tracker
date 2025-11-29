@@ -19,7 +19,6 @@ The app fetches Bitcoin price data from the **CoinGecko API**, displays the late
 
 ## ▶️ How to Run
 1. Clone the repo  
-2. Install dependencies  
-3. Run the app
-4. Then Run ``streamlit run main.py`` in Terminal
+2. Install dependencies
+3. Run ``streamlit run main.py`` in Terminal
 
